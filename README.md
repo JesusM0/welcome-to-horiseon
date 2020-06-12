@@ -13,6 +13,6 @@ A website that offers fitness training services.
 https://kos-mosv4.github.io/welcome-to-horiseon/
 
 ## Contribution
-Made with ❤️  by Jesus Molina
+Made with ❤️    by Jesus Molina
 
 ## © 2019 Horiseon Social Solution Services, Inc.
