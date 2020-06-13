@@ -1,7 +1,7 @@
 # Horiseon, Inc
 
 ## Purpose
-A website that offers fitness training services.
+Horiseon is dedicated to improving search engine optimization, online reputation management, and social media marketing. This website is meant to display a brief description of what is offered by Horiseon and its benefits to clients. 
 
 ![Screenshot of Webpage](/assets/images/screenshot.jpg?raw=true 'Screenshot of Webpage')
 
